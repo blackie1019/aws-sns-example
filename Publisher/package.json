@@ -1,0 +1,23 @@
+{
+  "name": "aws-sns-example",
+  "version": "1.0.0",
+  "description": "AWS SNS sample code with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackie1019/aws-sns-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackie1019/aws-sns-example/issues"
+  },
+  "homepage": "https://github.com/blackie1019/aws-sns-example#readme",
+  "dependencies": {
+    "aws-sdk": "^2.175.0"
+  }
+}
